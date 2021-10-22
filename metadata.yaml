@@ -1,11 +1,16 @@
 _repo: Briefe-eines-Malers-an-seine-Schwester_66499
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66499-h/images/cover.jpg
 creator:
   author:
     agent_name: Sandvoß, Rosalie
     gutenberg_agent_id: '53841'
     url: http://www.gutenberg.org/2009/agents/53841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66499#Briefe-eines-Malers-an-seine-Schwester
 gutenberg_issued: '2021-10-09'
 identifiers:
   gutenberg: '66499'
